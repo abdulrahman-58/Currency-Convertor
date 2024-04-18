@@ -1,0 +1,25 @@
+{
+  "name": "@abdulrahmanazam/currency-convertor",
+  "version": "3.0.0",
+  "description": "This is a currency convertor by using typescript",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "currency-convertor": "main.js"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.19"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
