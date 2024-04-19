@@ -1,6 +1,6 @@
 {
   "name": "@abdulrahmanazam/currency-convertor",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "This is a currency convertor by using typescript",
   "main": "index.js",
   "type": "module",
